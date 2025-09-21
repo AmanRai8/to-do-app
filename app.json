@@ -47,6 +47,7 @@
     },
     "extra": {
       "router": {},
+      "convexUrl": "https://aromatic-shepherd-23.convex.cloud",
       "eas": {
         "projectId": "0dabd25e-8c0e-4a94-ac7a-db33ed79d49c"
       }
