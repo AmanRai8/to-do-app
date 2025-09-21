@@ -1,50 +1,32 @@
-# Welcome to your Expo app 👋
+<h1 align="center">✨ To-Do App ✨</h1>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<p align="center">
+  <img src="https://img.shields.io/badge/Expo-54.0.0-blue?logo=expo" alt="Expo Badge" />
+  <img src="https://img.shields.io/badge/React%20Native-Mobile%20App-61DAFB?logo=react" alt="React Native Badge" />
+  <img src="https://img.shields.io/badge/Convex-Backend-orange?logo=icloud" alt="Convex Badge" />
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-green?logo=android" alt="Platform Badge" />
+</p>
 
-## Get started
+<p align="center">  
+  A simple yet powerful <b>cross-platform To-Do App</b> built with <a href="https://expo.dev/">Expo</a>,  
+  <a href="https://reactnative.dev/">React Native</a>, and <a href="https://convex.dev/">Convex</a> 🌍  
+</p>
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## ✨ Features
 
-2. Start the app
+- ✅ **Add, edit, and delete tasks**
+- 🔄 **Real-time sync** with Convex backend
+- 🎨 **Custom icons & splash screen**
+- 📱 **Runs on Android, iOS, and Web**
+- ⚡ Built with **Expo Router** and **EAS Build**
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🛠️ Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+| Frontend        | Backend      | Build Tools  |
+| --------------- | ------------ | ------------ |
+| ⚛️ React Native | ☁️ Convex    | 🛠️ EAS Build |
+| 🎨 Expo Router  | 🔄 Live Sync | 📦 Expo CLI  |
